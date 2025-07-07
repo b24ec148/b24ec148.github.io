@@ -4,6 +4,7 @@
 🔬 Passionate about Embedded Systems, IoT, and Arduino  
 💻 Currently learning: C, Python, and real-world sensor-based projects  
 📍 Based in India | Open to collaborations and internships
+ Reach me at: b24ec148@kitsw.ac.in
 
 ---
 
@@ -36,8 +37,7 @@ More coming soon... 👩‍🔧
 ## 📫 Contact
 
 - GitHub: [@b24ec148](https://github.com/b24ec148)
-- Email: your-email@example.com *(replace with your email)*
-- LinkedIn: [Your LinkedIn link](#) *(optional)*
+- Email: your-b24ec148@kitsw.ac.in
 
 ---
 
